@@ -1,0 +1,12 @@
+title: Saleh Dehqanpour
+remote_theme: pages-themes/minimal@v0.2.0
+plugins:
+- jekyll-remote-theme
+description: dehqanpour.saleh ατ gmail δøτ com
+logo: ./pic.jpg
+# google_analytics: 
+# show_downloads: true
+# repository: salehdehqanpour/salehdehqanpour
+exclude:
+  - "readme.md"
+  
