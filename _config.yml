@@ -8,5 +8,4 @@ logo: ./pic.jpg
 # show_downloads: true
 # repository: salehdehqanpour/salehdehqanpour
 exclude:
-  - "readme.md"
-  
+  - "help.md"
